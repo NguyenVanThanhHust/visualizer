@@ -9,7 +9,7 @@ Simple 3D visualizer from scratch, built on pygame.
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:NguyenVanThanhHust/visualizer.git
 cd visualizer
 uv sync
 ```
